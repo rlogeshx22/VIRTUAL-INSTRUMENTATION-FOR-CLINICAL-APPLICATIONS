@@ -36,7 +36,7 @@ To find the maximum and minimum values (and their indices) from an array using L
 
 
 ## Output
-
+ 
 <img width="1920" height="1200" alt="VICAEXP6" src="https://github.com/user-attachments/assets/3bbcc109-9e5d-4e1e-8f1c-6a43e5981133" />
 
 ##  Result

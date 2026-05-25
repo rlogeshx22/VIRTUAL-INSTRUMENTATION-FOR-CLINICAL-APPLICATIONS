@@ -71,7 +71,7 @@ To perform Boolean operations (AND, OR, XOR, NOT, NAND) using LabVIEW.
 | 0  | 1  | 1              |
 | 1  | 0  | 1              |
 | 1  | 1  | 0              |
-
+ 
 ### NOT Gate
 | X  | Y (NOT X) |
 |----|-----------|

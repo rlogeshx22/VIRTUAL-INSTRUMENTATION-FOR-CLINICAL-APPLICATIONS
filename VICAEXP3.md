@@ -9,7 +9,7 @@ To find the sum of 'n' numbers using a FOR loop in LabVIEW.
 - National Instruments LabVIEW (any version supporting basic VI creation)
 
 ---
-
+ 
 ##  Algorithm
 
 | Step | Description |
@@ -35,7 +35,7 @@ To find the sum of 'n' numbers using a FOR loop in LabVIEW.
 
 <img width="914" height="476" alt="image" src="https://github.com/user-attachments/assets/e65761f0-511a-48d0-ac16-a8b6d963dce4" />
 
-
+ 
 ##  Output
 
 <img width="1920" height="1200" alt="VICAEXP3" src="https://github.com/user-attachments/assets/fda6f26c-8b20-4553-b90a-8955c9f4d1c2" />

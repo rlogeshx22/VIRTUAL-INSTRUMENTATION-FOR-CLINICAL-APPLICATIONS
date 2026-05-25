@@ -24,7 +24,7 @@ To sort even numbers from a given set of numbers using a WHILE loop in an array 
 ---
 
 ##  Front Panel Layout
-
+ 
 <img width="489" height="338" alt="image" src="https://github.com/user-attachments/assets/fea8eedd-7ed0-4722-9388-3240ac6ff5ad" />
 
 ---
